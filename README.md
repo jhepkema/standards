@@ -16,4 +16,4 @@ CoZ standards are a tool to align ourselfs as a distributed open source group, i
 
 ## Consensus nodes
 
-Standard on consensus nodes setup and requirements [can be seen here](nodes.md)
+Standard on consensus nodes setup and requirements [can be seen here](nodes.md).
